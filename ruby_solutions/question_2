@@ -1,0 +1,4 @@
+what is the difference between Integer() and to_i ?
+
+answer: integer will shows an error if num is not a valid integer.
+whereasee -i will convert as much as it can.

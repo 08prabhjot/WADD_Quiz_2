@@ -1,0 +1,4 @@
+What is the difference between 1 == 1.0 and 1.eql? 1.0 ?
+
+answer: The eql? method returns true if obj and other refer to the same hashkey.
+wherease the == operator tests if both operands are equal.

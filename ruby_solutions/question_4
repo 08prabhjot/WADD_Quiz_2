@@ -1,0 +1,4 @@
+What is the difference between a variable name prefixed with and without @ ?
+
+answer:prefixed with will become an instant variable and can be acsessed outside the block
+ wherease without @ is limited to that particular block.
