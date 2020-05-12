@@ -1,0 +1,4 @@
+What is the difference between print and puts ?
+
+answer:puts move the cursor to the next line automatically
+ whererase print does not. it continue typi g on the same line.

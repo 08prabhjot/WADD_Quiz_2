@@ -1,0 +1,4 @@
+Write a difference between lambdas and procs.
+
+answer: procs does not check the arguments while lambdas checkout the arguments.
+hence lambdas will show error whenever you pass a wrong arguments wherease procs does not.
